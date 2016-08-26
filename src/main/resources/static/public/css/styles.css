@@ -1,0 +1,36 @@
+form .error {
+	color: #A94442;
+}
+
+span[id$=errors] {
+	color: #A94442;
+	font-weight: bold;
+}
+
+/* JSP */
+
+.bolTable th {
+	text-align: center;
+}
+
+.bolTable td {
+	text-align: center;
+}
+
+/* Javascript */
+
+.classBolTable th {
+	text-align: center;
+	border:1px solid silver;
+}
+
+.classBolTable td {
+	text-align: center;
+	border:1px solid silver;
+}
+
+.classBolTable {
+	table-layout: fixed;
+	width: 100%;
+    border-collapse:collapse;
+}

@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar target/Tabla-Taleem.online-0.0.1.jar
